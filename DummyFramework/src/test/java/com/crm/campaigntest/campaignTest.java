@@ -23,5 +23,5 @@ public class campaignTest extends Basetest{
 	public void navigatetoCampaignPageTest() throws IOException {	
 		Homepage hp = new Homepage(driver);
 		hp.navigateTocampaignpage();
-		
+	//	
 }}
