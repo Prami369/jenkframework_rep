@@ -39,7 +39,7 @@ public class Basetest {
 	public DatabaseUtility dutil = new DatabaseUtility();
 //	public static ExtentReports report;
 	
-
+//
 
 	@BeforeMethod (groups={"regression" ,"smoke"})
 	public void configBM() throws IOException {
