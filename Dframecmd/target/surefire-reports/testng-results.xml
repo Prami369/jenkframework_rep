@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateOrgwithPhonenum verified==pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-03-05T11:14:44 IST" name="Suite" finished-at="2025-03-05T11:14:53 IST" duration-ms="8971">
+    <groups>
+      <group name="regression">
+        <method signature="OrganizationmoduleTest.CreateOrgwithPhonenum(java.lang.reflect.Method)[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" name="CreateOrgwithPhonenum" class="com.crm.orgtest.OrganizationmoduleTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2025-03-05T11:14:44 IST" name="Test" finished-at="2025-03-05T11:14:53 IST" duration-ms="8971">
+      <class name="com.crm.orgtest.OrganizationmoduleTest">
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:44 IST" name="configAS" finished-at="2025-03-05T11:14:44 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+        <test-method is-config="true" signature="configBC(java.lang.String)[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:44 IST" name="configBC" finished-at="2025-03-05T11:14:47 IST" duration-ms="2524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:47 IST" name="configBM" finished-at="2025-03-05T11:14:48 IST" duration-ms="1525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CreateOrgwithPhonenum(java.lang.reflect.Method)[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:48 IST" name="CreateOrgwithPhonenum" finished-at="2025-03-05T11:14:52 IST" duration-ms="3896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.orgtest.OrganizationmoduleTest.CreateOrgwithPhonenum(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[CreateOrgwithPhonenum verified==pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateOrgwithPhonenum -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:52 IST" name="configAM" finished-at="2025-03-05T11:14:53 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:53 IST" name="configAC" finished-at="2025-03-05T11:14:53 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.crm.orgtest.OrganizationmoduleTest@17046283]" started-at="2025-03-05T11:14:53 IST" name="configBS" finished-at="2025-03-05T11:14:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+      </class> <!-- com.crm.orgtest.OrganizationmoduleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
